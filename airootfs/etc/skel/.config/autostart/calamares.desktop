@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=Start Installer
+Exec=sudo calamares
+Icon=calamares
+X-GNOME-Autostart-enabled=true

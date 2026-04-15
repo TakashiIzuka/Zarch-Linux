@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Install Zarch Linux
+Exec=sudo calamares
+Icon=/etc/calamares/branding/default/logo.png
+Type=Application
+Terminal=false
+Categories=System;
+
