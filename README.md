@@ -14,10 +14,19 @@ Welcome to the official repository for **Zarch-Linux**, a custom, performance-fo
 * **Easy Installation:** Powered by the Calamares framework for a smooth graphical installation experience.
 * **Custom Repositories:** Pre-configured with custom kernels and essential firmware via GitHub Releases.
 
-## 🛠️ Build Instructions
-To build the Zarch-Linux ISO yourself, you will need an Arch Linux environment with the `archiso` package installed.
+---
 
-1. Clone this repository:
-   ```bash
-   git clone [https://github.com/TakashiIzuka/Zarch-Linux.git](https://github.com/TakashiIzuka/Zarch-Linux.git)
-   cd Zarch-Linux
+## 🛠️ Build Instructions
+
+> 🚨 **IMPORTANT PREREQUISITE**
+> You **MUST** have the `archiso` package installed on your Arch Linux host system before attempting to build. The build process relies entirely on this tool and will fail without it. 
+> To install it, run: 
+> ```bash
+> sudo pacman -S archiso
+> ```
+
+### 1. Clone this repository
+First, grab the source code from GitHub:
+```bash
+git clone [https://github.com/TakashiIzuka/Zarch-Linux.git](https://github.com/TakashiIzuka/Zarch-Linux.git)
+cd Zarch-Linux
