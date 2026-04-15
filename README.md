@@ -1,4 +1,4 @@
-# 🚀 Zarch-OS
+# 🚀 Zarch-Linux
 
 ![Arch Linux Based](https://img.shields.io/badge/Based_on-Arch_Linux-1793d1?style=for-the-badge&logo=arch-linux)
 ![Status](https://img.shields.io/badge/Status-Alpha-red?style=for-the-badge)
