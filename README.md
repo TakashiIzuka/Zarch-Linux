@@ -14,8 +14,7 @@ Welcome to the official repository for **Zarch-Linux**, a custom, performance-fo
 * **Easy Installation:** Powered by the Calamares framework for a smooth graphical installation experience.
 * **Custom Repositories:** Pre-configured with custom kernels and essential firmware via GitHub Releases.
 
----
-
+--
 ## 🛠️ Build Instructions
 
 > 🚨 **IMPORTANT PREREQUISITE**
